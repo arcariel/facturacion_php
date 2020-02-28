@@ -1,0 +1,12 @@
+{
+    "name": "victor-amaya/implement",
+    "authors": [
+        {
+            "name": "Victor Amaya",
+            "email": "v.ivan.amaya@gmail.com"
+        }
+    ],
+    "require": {
+        "lunasoft/sw-sdk-php": "dev-master"
+    }
+}
